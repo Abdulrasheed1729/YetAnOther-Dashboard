@@ -2,6 +2,13 @@
 
 A new Flutter project.
 
+### ScreenShot
+
+<p float="left">
+  <img src="screenshot/screenshot.png"/>
+   
+</p>
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
